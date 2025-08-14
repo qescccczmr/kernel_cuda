@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-
 // CUDA runtime
 #include <cuda_runtime.h>
 #include <cublas_v2.h>
